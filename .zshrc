@@ -137,3 +137,6 @@ alias dotfiles="/usr/bin/git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
 
 alias dfsave='dotfiles add -u && dotfiles commit -m "Update dotfiles" && dotfiles push'
 
+
+# Created by `pipx` on 2025-11-27 04:21:58
+export PATH="$PATH:/Users/sriujjwal/.local/bin"
